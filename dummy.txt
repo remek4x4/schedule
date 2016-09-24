@@ -1,0 +1,17 @@
+Podstawy telekomunikacji/w
+
+Fizyka 3.1/l
+
+Niezawodnosc i diagnostyka ukladow cyfrowych 1/w
+
+Podstawy przetwarzania sygnalow/wl
+
+Inzynierskie zastos. statysty/wc
+
+Logika ukladow cyfrowych/wl
+
+Jezyki programowania/wl
+
+Arytmetyka komputerow/wc
+
+Architektura komputerow 1/wc
